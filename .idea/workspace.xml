@@ -6,13 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b4d5dd2-d5d1-4600-8d5f-010869c5082c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Register-of-valuables---Skoluppgift/.idea/misc.xml" afterPath="$PROJECT_DIR$/out/production/Register-of-valuables---Skoluppgift/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Register-of-valuables---Skoluppgift/.idea/workspace.xml" afterPath="$PROJECT_DIR$/out/production/Register-of-valuables---Skoluppgift/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Register-of-valuables---Skoluppgift/README.md" afterPath="$PROJECT_DIR$/out/production/Register-of-valuables---Skoluppgift/README.md" />
-    </list>
+    <list default="true" id="8b4d5dd2-d5d1-4600-8d5f-010869c5082c" name="Default" comment="" />
     <ignored path="Register-of-valuables---Skoluppgift.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
